@@ -10,3 +10,8 @@
 - João Gabriel Silva de Almeida;
 - Nicollas Rafael Rufino. 
 
+<p>
+<div align="center">
+  <a href="https://github.com/ProjetoIntegradods03">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ProjetoIntegradods03&show_icons=true&theme=dracula&include_all_commits=true&count_public=true"/>
+ </div></p>
