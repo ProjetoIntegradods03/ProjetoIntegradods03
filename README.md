@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## • Grupo 03 do projeto integrado da turma de "Desenvolvimento de Software" da escola Francisco Moreira da Costa (ETE FMC).
+#### • Grupo 03 do projeto integrado da turma de "Desenvolvimento de Software" da escola Francisco Moreira da Costa (ETE FMC).
 
 ## Integrantes:
 - Igor Yanko Corrêa Lemes;
