@@ -16,3 +16,8 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ProjetoIntegradods03&show_icons=true&theme=merko&include_all_commits=true&count_public=true"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ProjetoIntegradods03&layout=compact&langs_count=7&theme=merko"/>
 </div>
+
+
+![a4f2cea7141557a7b33788bc5d0fbdb2dc411e5f_hq](https://user-images.githubusercontent.com/101808175/159579628-af629773-e803-4897-bfef-ba3445d1614f.gif)
+![0708ed06079e2d0ae6438e5902487d6908d9e79a_hq](https://user-images.githubusercontent.com/101808175/159579804-259dcc1b-a5d0-4b85-a21e-896099f868bb.gif)
+ <img align="right" alt="Pikachu" height="150" style="border-radius:50px;" 
