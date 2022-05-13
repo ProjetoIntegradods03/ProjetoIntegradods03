@@ -21,5 +21,7 @@
   <div align="center"> 
    <a href = "mailto:projetointegradods03@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
   </div>
+  
 
-  ![0708ed06079e2d0ae6438e5902487d6908d9e79a_hq](https://user-images.githubusercontent.com/101808175/159580485-01e83ab9-f223-40ae-9599-ff5271d734b5.gif)
+![Slides_da_Apresentação__1984_-removebg-preview (1)](https://user-images.githubusercontent.com/101808175/168389523-4bb9f062-62db-4fc1-9f00-79571e927804.png)
+
